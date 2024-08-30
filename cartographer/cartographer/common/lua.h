@@ -1,0 +1,8 @@
+
+
+#ifndef CARTOGRAPHER_COMMON_LUA_H_
+#define CARTOGRAPHER_COMMON_LUA_H_
+
+#include <lua.hpp>
+
+#endif // CARTOGRAPHER_COMMON_LUA_H_

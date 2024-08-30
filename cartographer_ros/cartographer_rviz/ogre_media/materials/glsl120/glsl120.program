@@ -1,0 +1,11 @@
+ 
+
+fragment_program cartographer_ros/glsl120/submap.frag glsl
+{
+  source submap.frag
+}
+
+vertex_program cartographer_ros/glsl120/submap.vert glsl
+{
+  source submap.vert
+}
